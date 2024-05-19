@@ -1,0 +1,18 @@
+@import "./purple.css";
+:root {
+    --title-color: var(--text-color);
+    --link-color: #337ab7;
+    --code-color: #00BBFF;
+    --border-quote: var(--border-quote-grey);
+    --header-weight: bold;
+    background-image: url(./image/snow_miku.png);
+    padding-top: 0cm;
+    padding-bottom: 0cm;
+    padding-left: 2cm;
+    padding-right: 2cm;
+    background-size: 30%;
+    background-position: 1080px 440px;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}

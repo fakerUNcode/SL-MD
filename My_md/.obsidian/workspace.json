@@ -1,0 +1,169 @@
+{
+  "main": {
+    "id": "29122933847b320d",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8247564f585968c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "90dabd876c7eea2d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS/Computer Network/物理层.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "638ac6d3a9ee94d7",
+    "type": "split",
+    "children": [
+      {
+        "id": "7e4366536c254593",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a663e23fbf611a6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d1d92be8dd919de3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c96cd4ce0200769e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 239.5
+  },
+  "right": {
+    "id": "b3a7550411c95a72",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a8e0bb77f1a8891",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "074fd1c916c60051",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "CS/Computer Network/物理层.md",
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": true,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1947c5a32810eca2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "CS/Computer Network/物理层.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b6d9daeaa0b9f4ca",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "bb8270a4d3814359",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "CS/Computer Network/物理层.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "90dabd876c7eea2d",
+  "lastOpenFiles": [
+    "CS/Computer Network/数据链路层.md",
+    "CS/OS/Lab/preparation/Basic preparation.md",
+    "CS/OS/Process/ProcessConceptAndStatus.md",
+    "CS/OS/Process/Process Scheduling.md",
+    "CS/OS/OS Intruduction and OS structure/Operating System Introduction.md",
+    "CS/OS/OS Intruduction and OS structure/OS structure.md",
+    "structure_img/OS.md",
+    "structure_img",
+    "introduction_img/IO.md",
+    "introduction_img",
+    "CS/OS/OS Intruduction and OS structure/introduction_img/interrupt.png",
+    "CS/Computer Network/842/NJU842自检5.14.md",
+    "CS/Computer Network/物理层.md",
+    "CS/Computer Network/应用层.md",
+    "CS/Computer Network/介质访问控制子层.md",
+    "CS/OS/OS Intruduction and OS structure/introduction_img/bootstarp.png",
+    "CS/OS/OS Intruduction and OS structure/introduction_img/boot_sector.png"
+  ]
+}

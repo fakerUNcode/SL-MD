@@ -1,0 +1,30 @@
+/** Crimson Text **/
+@import url("https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap");
+/** Alegreya **/
+@import url("https://fonts.googleapis.com/css2?family=Alegreya:ital,wght@0,400;0,500;0,700;0,800;0,900;1,400;1,500;1,700;1,800;1,900&display=swap");
+/** Nova Mono **/
+@import url('https://fonts.googleapis.com/css2?family=Nova+Mono&display=swap');
+
+
+
+/* Try locally, in case of connection fail */
+@import "pro/torillic-typography.css";
+@import "pro/torillic-elements.css";
+@import "pro/torillic-code.css";
+@import "pro/torillic-write.css";
+@import "pro/torillic-print.css";
+@import "pro/torillic-focus.css";
+@import "pro/torillic-interface.css";
+
+:root {
+  --offwhite: #fff9e6;
+  --red: #58180d;
+  --green: #e0e5c1;
+  --yellow: #c9ad6a;
+  --grey: #6D6A75;
+  --black: #403333;
+
+  font-size: 3.35mm;
+  font-family: "Alegreya", sans-serif;
+  color: var(--black);
+}
